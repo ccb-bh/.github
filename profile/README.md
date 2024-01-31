@@ -1,12 +1,47 @@
-## Hi there 👋
+# Bem-vindo à base de conhecimento do SGE!
+## Sobre
+O SGE foi criado para fazer a gestão completa dos eventos destinados as Regionais vinculadas a RRM-BH.
 
-<!--
+> Você pode acessar o site pelo [Sistema de gestão de eventos](https://www.ccbbh.com.br/).
 
-**Here are some ideas to get you started:**
+### Tópicos principais
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<details>
+  
+<summary>Relatórios</summary>
+
+  > [Relatórios - Impressão da Lista]() <br />
+  > [Relatórios - Lista prévia]() <br />
+  > [Relatórios - Lista para conferência]() <br />
+</details>
+
+<details>
+<summary>Eventos</summary>
+
+  > [Home - Eventos pendentes]() <br />
+  > [Eventos - Criação de Eventos]() <br />
+  > [Eventos - Edição de Eventos]() <br />
+  > [Eventos - Criação de Reuniões]() <br />
+  > [Eventos - Edição de Reuniões]() <br />
+</details>
+
+<details>
+<summary>Cadastros</summary>
+
+  > [Cadastros - Criação de casa de oração]() <br />
+  > [Cadastros - Associação de setores à casas de oração]() <br />
+  > [Cadastros - Criação de pessoas]() <br />
+  > [Cadastros - Associação de casas de oração à pessoas]() <br />
+</details>
+
+<details>
+<summary>Usuários</summary>
+
+  > [Enviar uma solicitação de acesso]() <br />
+  > [Associando Regionais, administrações e setores]() <br />
+  > [Enviar uma solicitação ou incidente]() <br />
+  > [Fazer uma pergunta]() <br />
+</details>
+
+> [!NOTE]
+> Entre em contato em *contato@ccbbh.com.br*
